@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Lucida Console; }
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden; }
+
+body {
+  background-color: #0B0C10; }
+
+header {
+  width: 100%; }
+
+.site-title {
+  color: #66FCF1;
+  font-weight: 900; }
+
+.introduction {
+  color: #C5C6C7;
+  font-weight: 600;
+  font-size: 50px;
+  text-align: justify;
+  border: 2px solid #45A29E;
+  width: 70%;
+  padding: 5%;
+  margin-left: 10%;
+  margin-top: 10%;
+  text-transform: uppercase; }
+
+.introduction-highlight {
+  color: #66FCF1;
+  text-decoration: underline;
+  cursor: pointer; }
